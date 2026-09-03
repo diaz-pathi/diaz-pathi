@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm a Software Developer Student 👋
 
-<!--
-**diaz-pathi/diaz-pathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An enthusiastic Software Development student passionate about building desktop applications and web solutions. Always eager to learn new technologies and improve my problem-solving skills!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+
+**Languages & Technologies:**
+- **Java** (Swing UI, Desktop Applications, Ant Build Tool)
+- **Web Development:** HTML5, CSS3, JavaScript, PHP
+- **Database Management:** SQL / MySQL
+
+---
+
+## 📁 Key Projects
+
+### 💻 Desktop Applications
+* **Java Desktop Projects:** Built using **Java & Apache Ant**, focusing on clean Swing GUI interfaces, event handling, and data processing.
+
+### 🌐 Web Applications
+* **Student Management System:** A full-stack web project built using **HTML, CSS, JavaScript, and PHP** to handle student data, course registrations, and management tasks efficiently.
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+---
+
+📫 **Connect with me:** Feel free to explore my repositories and check out my work!
