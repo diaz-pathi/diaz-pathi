@@ -63,7 +63,7 @@
   <a href="mailto:contact.diazpathi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="[Oyage_LinkedIn_Profile_Link_Eka_Methanata_Danna]">
+  <!--<a href="[Oyage_LinkedIn_Profile_Link_Eka_Methanata_Danna]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a>-->
 </p>
