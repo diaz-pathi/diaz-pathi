@@ -50,7 +50,7 @@
 
 ### 📫 Let's Connect!
 <p align="left">
-  <a href="mailto:lakshithakaveendiaspathi2005@gmail.com">
+  <a href="mailto:contact.diazpathi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="[Oyage_LinkedIn_Profile_Link_Eka_Methanata_Danna]">
