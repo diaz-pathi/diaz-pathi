@@ -1,34 +1,59 @@
-# Hi there, I'm a Software Developer Student 👋
-
-An enthusiastic Software Development student passionate about building desktop applications and web solutions. Always eager to learn new technologies and improve my problem-solving skills!
-
----
-
-## 🛠️ Tech Stack & Tools
-
-**Languages & Technologies:**
-- **Java** (Swing UI, Desktop Applications, Ant Build Tool)
-- **Web Development:** HTML5, CSS3, JavaScript, PHP
-- **Database Management:** SQL / MySQL
-
----
-
-## 📁 Key Projects
-
-### 💻 Desktop Applications
-* **Java Desktop Projects:** Built using **Java & Apache Ant**, focusing on clean Swing GUI interfaces, event handling, and data processing.
-
-### 🌐 Web Applications
-* **Student Management System:** A full-stack web project built using **HTML, CSS, JavaScript, and PHP** to handle student data, course registrations, and management tasks efficiently.
-
----
-
-## 📊 My GitHub Stats
+<h1 align="center">Hi there, I'm Lakshitha Kaveen Diaz Pathinayake 👋</h1>
+<h3 align="center">🎓 Software Developer Student at NVTI Baddegama</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+%7C+PHP+%7C+JavaScript;Web+Applications+%26+Databases" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-📫 **Connect with me:** Feel free to explore my repositories and check out my work!
+### 👨‍💻 About Me
+* 🔭 Currently working on **WEB Applications & Database Systems**
+* 🌱 Learning **Java, SQL, HTML/CSS, JavaScript & PHP**
+* 💡 Interested in **Full-Stack Development & Software Design**
+* ⚡ Fun fact: *Always eager to learn new technologies and build cool things!*
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Databases:**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+**Tools & IDEs:**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[Oyage_GitHub_Username]&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Oyage_GitHub_Username]&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+</p>
+
+---
+
+### 📫 Let's Connect!
+<p align="left">
+  <a href="mailto:lakshithakaveendiaspathi2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="[Oyage_LinkedIn_Profile_Link_Eka_Methanata_Danna]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
